@@ -1,0 +1,25 @@
+<style type="text/css">
+
+
+
+ /* unvisited link */
+a:link {
+    color: darkgreen;
+}
+
+/* visited link */
+a:visited {
+    color: #00FF00;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+/* selected link */
+a:active {
+    color: white;
+} 
+ 
+ </style>

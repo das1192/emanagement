@@ -1,0 +1,21 @@
+aactive_employee == adminactive_employee (for mainadmins desicion)
+
+ae_edit == admin employee edit,(mainadmin)
+
+e_elist == a list of employee with edit option
+
+e_edit == for all general admin ,
+
+etypelist == type(category list) with edit option
+
+
+t_edit == type /category edit
+at_edit == admin type /cateygory edit for mainadmin 
+
+plugin used : fpdf 
+	    
+             : Datepicker (js)
+
+
+
+
